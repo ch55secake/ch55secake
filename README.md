@@ -1,19 +1,25 @@
-## 👋
+## Hello there 👋
 
-- 🔭 I’m currently working on building CLIs 
-- 🌱 I’m currently learning go
+```python
 
-<!--
-**ch55secake/ch55secake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#!/usr/bin/python
 
-Here are some ideas to get you started:
+class SoftwareEngineer(object): 
 
-🔭 I’m currently working on building CLIs 
-🌱 I’m currently learning go
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "oscar"
+        self.working_on = "the best idea I have"
+    
+    def __str__(self): 
+        print(f"Currently working on {self.working_on}")
+
+
+me: SoftwareEngineer = SoftwareEngineer()
+me.__str__()
+
+```
+
+
+
+
+
