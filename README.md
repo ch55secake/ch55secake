@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 - 🔭 I’m currently working on building CLIs 
 - 🌱 I’m currently learning go
