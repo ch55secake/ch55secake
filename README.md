@@ -1,5 +1,3 @@
-## Hello there 👋
-
 ```python
 
 #!/usr/bin/python
