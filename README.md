@@ -2,7 +2,7 @@
 
 #!/usr/bin/python
 
-class SoftwareEngineer(object): 
+class Cheesecake(object): 
 
     def __init__(self):
         self.name = "oscar"
@@ -12,7 +12,7 @@ class SoftwareEngineer(object):
         print(f"Currently working on {self.working_on}")
 
 
-me: SoftwareEngineer = SoftwareEngineer()
+me: Cheesecake = Cheesecake()
 me.__str__()
 
 ```
