@@ -5,7 +5,6 @@
 class Cheesecake(object): 
 
     def __init__(self):
-        self.name = "oscar"
         self.watching = "reels"
     
     def __str__(self): 
