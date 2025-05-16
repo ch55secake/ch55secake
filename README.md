@@ -5,10 +5,10 @@
 class Cheesecake(object): 
 
     def __init__(self):
-        self.watching = "reels"
+        self.max = "goon"
     
     def __str__(self): 
-        print(f"Always watching {self.watching}")
+        print(f"Max is a {self.watching}")
 
 
 me: Cheesecake = Cheesecake()
